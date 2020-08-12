@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Juan.
+
+### About Me
+- Blog: [My Github Blog](https://athletejuan.github.io)
+
+---
+[![Athletejuan's github stats](https://github-readme-stats.vercel.app/api?username=athletejuan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **athletejuan/athletejuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
